@@ -1,0 +1,16 @@
+eq:binom
+thm:tri
+gsea
+plots
+models
+footnotes-and-citations
+footnotes
+citations
+blocks
+equations
+theorems-and-proofs
+callout-blocks
+sharing-your-book
+publishing
+pages
+metadata-for-sharing
